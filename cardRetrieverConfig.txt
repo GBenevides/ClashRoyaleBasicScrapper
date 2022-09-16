@@ -1,0 +1,2 @@
+playerTag = YOUR_USER_ID
+apiToken = YOUR_TOKEN
